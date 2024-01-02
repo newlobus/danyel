@@ -1,0 +1,3 @@
+2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+
+R - Para que não haja atributos multivalorados, duplicação de informação, informações desnecessárias, remoção de pendências parciais e transitivas, e fazendo com que o banco de dados não fique pesado na hora de ser utilizado.
